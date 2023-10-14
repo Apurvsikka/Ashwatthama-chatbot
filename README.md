@@ -1,4 +1,4 @@
 # Ashwatthama-chatbot
 Ashwatthama is a simple chatbot made using brainshop api
 ## screenshot
-<img src="https://ibb.co/hftgvmb" height="50px">
+<a href="https://ibb.co/hftgvmb"><img src="https://i.ibb.co/hftgvmb/Screenshot-from-2023-10-14-18-37-20.png" alt="Screenshot-from-2023-10-14-18-37-20" border="0"></a>
